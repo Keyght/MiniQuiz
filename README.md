@@ -1,3 +1,9 @@
-# RTUProject 
-Проект выполнен в Unity 3D 2019.2.11f1. Для запуска проекта необходимо добавить все существующие сцены в Build Settings. Для сборки проекта также необходимо добавить все сцены, выбрать необходимую платформу и нажать Build. Запуск собранной версии: LabaLast3D.exe.
-Управление WASD, клики осуществлять левой клавишей мыши.
+# MiniQuiz
+
+Проект представляет собой мини-головоломку, состоит из трёх уровней. Предназначен для запуска на ПК.
+<img src="images/MiniQuiz1.png" width = 900/>
+<img src="images/MiniQuiz2.png" width = 900/>
+<img src="images/MiniQuiz3.png" width = 900/>
+<img src="images/MiniQuiz4.png" width = 900/>
+<img src="images/MiniQuiz5.png" width = 900/>
+<img src="images/MiniQuiz6.png" width = 900/>
